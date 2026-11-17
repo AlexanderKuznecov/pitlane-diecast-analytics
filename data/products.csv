@@ -1,0 +1,25 @@
+product_id,product_name,category,price,cost
+1,Mainline Nissan Skyline GT-R R34,Mainline,3.49,1.6
+2,Mainline Toyota Supra,Mainline,3.49,1.6
+3,Mainline Porsche 911 GT3,Mainline,3.99,1.8
+4,Mainline Ford Mustang,Mainline,3.49,1.6
+5,Mainline Lamborghini Huracan,Mainline,3.99,1.8
+6,Mainline Honda Civic Type R,Mainline,3.49,1.6
+7,Car Culture Datsun 510,Premium,8.99,4.0
+8,Car Culture Mazda RX-7,Premium,9.49,4.2
+9,Car Culture BMW M3 E30,Premium,9.99,4.5
+10,Car Culture Toyota AE86,Premium,9.49,4.2
+11,Treasure Hunt Chevrolet Camaro,Treasure Hunt,7.99,3.5
+12,Super Treasure Hunt Nissan Fairlady Z,Treasure Hunt,24.99,11.0
+13,Treasure Hunt Dodge Charger,Treasure Hunt,7.99,3.5
+14,F1 Red Bull Racing 1:64,F1 Collection,11.99,5.5
+15,F1 Ferrari 1:64,F1 Collection,11.99,5.5
+16,F1 McLaren 1:64,F1 Collection,11.99,5.5
+17,F1 Aston Martin 1:64,F1 Collection,11.99,5.5
+18,F1 Mercedes 1:43 Elite,F1 Collection,39.99,19.0
+19,Track Builder Stunt Set,Track Sets,34.99,24.5
+20,Mega Garage Playset,Track Sets,59.99,42.0
+21,Monster Loop Race Track,Track Sets,44.99,31.5
+22,Collector Display Case,Accessories,24.99,12.0
+23,Protector Pack Blister Covers,Accessories,8.99,4.0
+24,Car Carrying Case,Accessories,19.99,9.5

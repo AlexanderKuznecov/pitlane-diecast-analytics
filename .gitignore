@@ -1,0 +1,14 @@
+# тайни
+.env
+
+# виртуална среда
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/

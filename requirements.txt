@@ -1,0 +1,13 @@
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+faker
+nltk
+tensorflow
+plotly
+streamlit
+python-dotenv
+google-genai

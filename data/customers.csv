@@ -1,0 +1,124 @@
+customer_id,name,age,city,registration_date,customer_category
+1,Allison Hill,54.0,Plovdiv,2023-05-03,F1 Fan
+2,Noah Rhodes,44.0,Sofia,2023-11-09,F1 Fan
+3,Angie Henderson,30.0,Stara Zagora,2024-07-30,F1 Fan
+4,Daniel Wagner,,Burgas,2024-03-05,F1 Fan
+5,Cristian Santos,23.0,Varna,2022-06-29,Gift Buyer
+6,Connie Lawrence,36.0,  sofia,2023-08-22,Collector
+7,Abigail Shaffer,54.0,Sofia,2025-10-29,Collector
+8,Gina Moore,34.0,Sofia,2024-06-14,F1 Fan
+9,Gabrielle Davis,38.0,Varna,2022-10-23,Collector
+10,Ryan Munoz,26.0,Sofia,2023-01-31,F1 Fan
+11,Monica Herrera,150.0,Plovdiv,2022-03-10,Casual
+12,Jamie Arnold,39.0,Sofia,2025-01-06,Casual
+13,Lisa Hensley,51.0,Ruse,2023-11-09,F1 Fan
+14,Michele Williams,55.0,Plovdiv,2022-01-03,Casual
+15,Dylan Miller,39.0,Plovdiv,2024-03-18,Casual
+16,Brian Ramirez,,Varna,2025-06-06,Casual
+17,Holly Wood,37.0,Sofia,2024-04-16,F1 Fan
+18,Derek Zuniga,17.0,Varna,2024-12-02,Casual
+19,Lisa Jackson,39.0,Plovdiv,2025-01-22,Gift Buyer
+20,Carla Gray,59.0,Sofia,2025-02-26,F1 Fan
+21,Margaret Hawkins DDS,45.0,Stara Zagora,2025-02-18,Gift Buyer
+22,Patty Perez,53.0,Plovdiv,2024-11-07,F1 Fan
+23,Ethan Adams,17.0,Varna,2022-11-03,F1 Fan
+24,Tommy Walter,36.0,Ruse,2023-07-20,Casual
+25,Matthew Foster,48.0,Varna,2023-11-01,Casual
+26,Judy Baker,27.0,VARNA,2022-04-19,Gift Buyer
+27,Justin Baker,37.0,Sofia,2024-10-28,Collector
+28,Stephanie Ross,59.0,Plovdiv,2023-05-28,F1 Fan
+29,Zachary Hicks,40.0,Sofia,2024-08-26,Casual
+30,Anthony Rodriguez,42.0,Plovdiv,2023-05-03,Casual
+31,Rebecca Henderson,57.0,Ruse,2024-10-27,Collector
+32,James Ferrell,43.0,Sofia,2025-08-10,Gift Buyer
+33,Tricia Valencia,31.0,Sofia,2022-07-13,F1 Fan
+34,Nathan Maldonado,30.0,Sofia,2025-01-23,F1 Fan
+35,Debra Davidson,59.0,Ruse,2025-10-30,Gift Buyer
+36,Jeffrey Chavez,18.0,Sofia,2023-04-12,Casual
+37,Sherri Baker,52.0,Varna,2024-02-27,Gift Buyer
+38,Cassandra Gaines,22.0,Sofia,2023-04-26,F1 Fan
+39,Elizabeth Fowler,36.0,Sofia,2024-11-01,Casual
+40,Brittany Farmer,24.0,Sofia,2023-09-27,Casual
+41,Paula Moreno,,Sofia,2023-05-22,Gift Buyer
+42,Fred Smith,33.0,Plovdiv,2023-09-18,Collector
+43,Sherry Decker,19.0,Plovdiv,2024-12-19,F1 Fan
+44,Anthony Humphrey,40.0,Varna,2023-04-05,Collector
+45,Angelica Tucker,29.0,Sofia,2024-05-11,F1 Fan
+46,Philip Cannon,24.0,Sofia,2022-07-17,F1 Fan
+47,John Pierce,41.0,Sofia,2022-10-26,F1 Fan
+48,Shane Henderson,17.0,Sofia,2023-10-16,F1 Fan
+49,Joshua Blair,35.0,Plovdiv,2024-10-29,Casual
+50,Eric Carney,43.0,Plovdiv,2023-08-12,Gift Buyer
+51,Jessica Holmes,-5.0,Sofia,2024-11-18,Collector
+52,Danny Morgan,59.0,Sofia,2025-03-08,Collector
+53,Crystal Robinson,23.0,Sofia,2022-09-28,Casual
+54,Mark Perez,50.0,Varna,2024-08-14,F1 Fan
+55,Shannon Jones,29.0,Varna,2024-06-03,F1 Fan
+56,Michael Lewis,32.0,Sofia,2023-04-13,F1 Fan
+57,Timothy Duncan,51.0,Stara Zagora,2023-09-23,F1 Fan
+58,Richard Aguirre,55.0,Sofia,2024-05-01,Casual
+59,Brent Jordan,19.0,Stara Zagora,2025-07-19,Collector
+60,John Daniel,17.0,Plovdiv,2022-01-01,Casual
+61,Victoria Garcia,21.0,Sofia,2023-04-18,Casual
+62,Gerald Hensley,57.0,Sofia,2023-03-22,F1 Fan
+63,Connor West,19.0,Varna,2022-11-23,F1 Fan
+64,Donald Wright,44.0,Varna,2023-10-30,F1 Fan
+65,Jessica Callahan,33.0,Plovdiv,2025-05-05,Casual
+66,Amber Kidd,41.0,Plovdiv,2024-06-19,Collector
+67,Tracy House,59.0,Plovdiv,2024-07-31,Collector
+68,Carol Tucker,49.0,Plovdiv,2024-10-14,Casual
+69,James Brown,25.0,Sofia,2023-05-16,Collector
+70,William Baker,51.0,Sofia,2023-12-24,Collector
+71,Jordan Henderson,29.0,Sofia,2023-11-18,F1 Fan
+72,Whitney Peters,46.0,Burgas,2023-11-18,Collector
+73,Brittney Phillips,30.0,Plovdiv,2024-11-15,Gift Buyer
+74,Lauren Daniels,23.0,Stara Zagora,2022-11-28,Collector
+75,Amy Silva,29.0,Sofia,2024-03-05,Casual
+76,Sarah Moore,38.0,Burgas,2024-01-06,F1 Fan
+77,Angela Lopez,55.0,Burgas,2025-05-18,Casual
+78,Megan Young,,Sofia,2025-05-21,F1 Fan
+79,Steve Sanchez,31.0,Plovdiv,2025-02-17,Collector
+80,Lisa Barnes,33.0,Varna,2022-09-21,Gift Buyer
+81,Kelly Donovan,39.0,Ruse,2024-10-20,Casual
+82,Mike Allen,41.0,Sofia,2022-05-12,Gift Buyer
+83,Michael Evans,40.0,Sofia,2023-03-17,F1 Fan
+84,Paul Jones,56.0,Varna,2024-03-11,Collector
+85,Zachary Ferrell,44.0,Burgas,2024-10-28,F1 Fan
+86,Daniel Baker,30.0,Sofia,2024-09-10,Casual
+87,Shirley Suarez,16.0,Sofia,2024-08-19,F1 Fan
+88,Christopher Bass,40.0,Stara Zagora,2023-06-05,Casual
+89,Lisa Archer,22.0,Sofia,2022-05-26,F1 Fan
+90,Aimee Montoya,24.0,Plovdiv,2025-06-25,Gift Buyer
+91,Matthew Mcmillan,39.0,Burgas,2025-03-12,F1 Fan
+92,Brian Rodriguez,16.0,Varna,2022-12-31,Casual
+93,Denise Jacobs,59.0,Varna,2024-11-11,Collector
+94,Christina Walters,23.0,Sofia,2023-04-28,F1 Fan
+95,John Whitehead,39.0,Plovdiv,2022-12-15,Casual
+96,Anna Henderson,26.0,Varna,2025-06-06,Collector
+97,Aaron Wise,32.0,Sofia,2022-11-06,Collector
+98,Deborah Figueroa,23.0,Sofia,2022-08-17,Gift Buyer
+99,Jessica Smith,50.0,Stara Zagora,2022-02-07,Casual
+100,Stephen Mckee,50.0,Plovdiv,2022-03-13,Collector
+101,Sandra Aguilar,48.0,Sofia,2023-01-16,F1 Fan
+102,Cameron Parker,20.0,Stara Zagora,2024-01-09,F1 Fan
+103,Rebecca Valencia,57.0,Stara Zagora,2024-08-07,Casual
+104,Christine Wright,54.0,Plovdiv,2025-08-13,F1 Fan
+105,Richard Henson,56.0,Ruse,2025-04-08,Collector
+106,Marc Moore,43.0,Sofia,2022-04-24,Collector
+107,Sharon Cherry,22.0,Sofia,2023-12-09,F1 Fan
+108,Sierra Johnson,24.0,Varna,2023-10-06,Casual
+109,Evelyn Galvan,23.0,Burgas,2025-10-08,Collector
+110,Sharon Cochran,27.0,Ruse,2024-09-05,Gift Buyer
+111,Richard Rodriguez,49.0,Plovdiv,2024-06-13,F1 Fan
+112,Shannon Walker,48.0,Ruse,2022-10-30,Collector
+113,Julia Torres,38.0,Ruse,2025-01-20,Collector
+114,Crystal Johnson,39.0,Stara Zagora,2024-12-17,Collector
+115,Garrett Lin,52.0,Burgas,2023-08-20,Gift Buyer
+116,Diana May,50.0,Varna,2024-02-07,Casual
+117,William Herrera,59.0,Plovdiv,2023-09-13,Casual
+118,Ashley Waller,55.0,Sofia,2023-01-15,Casual
+119,Victor Baker,37.0,Stara Zagora,2022-08-18,F1 Fan
+120,Jeffrey Chandler,42.0,Stara Zagora,2024-10-16,Casual
+2,Noah Rhodes,44.0,Sofia,2023-11-09,F1 Fan
+3,Angie Henderson,30.0,Stara Zagora,2024-07-30,F1 Fan
+4,Daniel Wagner,,Burgas,2024-03-05,F1 Fan

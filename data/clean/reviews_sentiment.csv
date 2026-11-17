@@ -1,0 +1,346 @@
+review_id,order_id,customer_id,product_id,review_date,review_text,rating,clean_text,compound,sentiment,month,rating_label
+1,452,72,9,2026-03-06,"Fantastic, Car Culture BMW M3 E30 exceeded my expectations :) https://youtube.com/watch?v=hw123",4,fantastic car culture bmw m e exceeded my expectations,0.765,Positive,2026-03,Positive
+2,117,31,10,2025-12-04,Absolutely loved Car Culture Toyota AE86! Best addition to my collection.,4,absolutely loved car culture toyota ae best addition to my collection,0.8653,Positive,2025-12,Positive
+3,1108,16,4,2026-10-08,Absolutely loved Mainline Ford Mustang! Best addition to my collection.,4,absolutely loved mainline ford mustang best addition to my collection,0.8653,Positive,2026-10,Positive
+4,1200,112,7,2026-11-05,Absolutely loved Car Culture Datsun 510! Best addition to my collection.,5,absolutely loved car culture datsun best addition to my collection,0.8653,Positive,2026-11,Positive
+5,73,48,18,2025-11-21,"F1 Mercedes 1:43 Elite is ok, nothing special.",3,f mercedes elite is ok nothing special,-0.015,Neutral,2025-11,Neutral
+6,359,60,11,2026-01-13,"Fantastic, Treasure Hunt Chevrolet Camaro exceeded my expectations :) https://youtube.com/watch?v=hw123",5,fantastic treasure hunt chevrolet camaro exceeded my expectations,0.8316,Positive,2026-01,Positive
+7,295,111,17,2025-12-29,Terrible! F1 Aston Martin 1:64 arrived in a crushed box and late!!!,1,terrible f aston martin arrived in a crushed box and late,-0.7946,Negative,2025-12,Negative
+9,981,74,8,2026-09-12,"Delivery took a week, Car Culture Mazda RX-7 is as described.",3,delivery took a week car culture mazda rx is as described,0.0,Neutral,2026-09,Neutral
+10,168,30,1,2025-12-11,"Mainline Nissan Skyline GT-R R34 is ok, nothing special.",3,mainline nissan skyline gt r r is ok nothing special,-0.015,Neutral,2025-12,Neutral
+11,963,43,23,2026-08-20,Absolutely loved Protector Pack Blister Covers! Best addition to my collection.,5,absolutely loved protector pack blister covers best addition to my collection,0.8653,Positive,2026-08,Positive
+12,531,72,4,2026-04-02,"Mainline Ford Mustang is amazing, great paint and fast delivery!!!",5,mainline ford mustang is amazing great paint and fast delivery,0.8682,Positive,2026-04,Positive
+14,564,98,15,2026-04-10,"F1 Ferrari 1:64 is ok, nothing special.",3,f ferrari is ok nothing special,-0.015,Neutral,2026-04,Neutral
+15,38,100,11,2025-11-10,"Delivery took a week, Treasure Hunt Chevrolet Camaro is as described.",3,delivery took a week treasure hunt chevrolet camaro is as described,0.296,Positive,2025-11,Neutral
+16,627,52,7,2026-05-06,"Car Culture Datsun 510 is amazing, great paint and fast delivery!!!",5,car culture datsun is amazing great paint and fast delivery,0.8682,Positive,2026-05,Positive
+17,1194,60,21,2026-11-09,"Fantastic, Monster Loop Race Track exceeded my expectations :) https://youtube.com/watch?v=hw123",4,fantastic monster loop race track exceeded my expectations,0.765,Positive,2026-11,Positive
+18,806,12,3,2026-07-01,"Mainline Porsche 911 GT3 is amazing, great paint and fast delivery!!!",5,mainline porsche gt is amazing great paint and fast delivery,0.8682,Positive,2026-07,Positive
+19,513,27,7,2026-03-19,"Car Culture Datsun 510 is overpriced, waste of money :( www.reddit.com/r/HotWheels",2,car culture datsun is overpriced waste of money,-0.6908,Negative,2026-03,Negative
+20,1141,93,13,2026-10-26,Terrible! Treasure Hunt Dodge Charger arrived in a crushed box and late!!!,2,terrible treasure hunt dodge charger arrived in a crushed box and late,-0.7067,Negative,2026-10,Negative
+21,138,60,12,2025-12-09,"Fantastic, Super Treasure Hunt Nissan Fairlady Z exceeded my expectations :) https://youtube.com/watch?v=hw123",5,fantastic super treasure hunt nissan fairlady z exceeded my expectations,0.9136,Positive,2025-12,Positive
+22,199,16,4,2025-12-13,"Delivery took a week, Mainline Ford Mustang is as described.",3,delivery took a week mainline ford mustang is as described,0.0,Neutral,2025-12,Neutral
+23,104,102,22,2025-12-01,"Collector Display Case is amazing, great paint and fast delivery!!!",5,collector display case is amazing great paint and fast delivery,0.8682,Positive,2025-12,Positive
+24,377,68,4,2026-01-20,"Mainline Ford Mustang is amazing, great paint and fast delivery!!!",5,mainline ford mustang is amazing great paint and fast delivery,0.8682,Positive,2026-01,Positive
+25,566,113,14,2026-04-07,"Very disappointed with F1 Red Bull Racing 1:64, the paint was chipped.",1,very disappointed with f red bull racing the paint was chipped,-0.5256,Negative,2026-04,Negative
+26,551,69,8,2026-04-08,"Car Culture Mazda RX-7 is ok, nothing special.",3,car culture mazda rx is ok nothing special,-0.015,Neutral,2026-04,Neutral
+27,784,76,18,2026-06-17,Terrible! F1 Mercedes 1:43 Elite arrived in a crushed box and late!!!,2,terrible f mercedes elite arrived in a crushed box and late,-0.7946,Negative,2026-06,Negative
+28,744,72,14,2026-06-06,"Fantastic, F1 Red Bull Racing 1:64 exceeded my expectations :) https://youtube.com/watch?v=hw123",5,fantastic f red bull racing exceeded my expectations,0.765,Positive,2026-06,Positive
+29,595,59,14,2026-04-17,"Fantastic, F1 Red Bull Racing 1:64 exceeded my expectations :) https://youtube.com/watch?v=hw123",4,fantastic f red bull racing exceeded my expectations,0.765,Positive,2026-04,Positive
+30,604,54,16,2026-04-19,Absolutely loved F1 McLaren 1:64! Best addition to my collection.,5,absolutely loved f mclaren best addition to my collection,0.8653,Positive,2026-04,Positive
+31,917,2,24,2026-08-08,"Car Carrying Case is amazing, great paint and fast delivery!!!",4,car carrying case is amazing great paint and fast delivery,0.8682,Positive,2026-08,Positive
+32,599,91,15,2026-04-27,"F1 Ferrari 1:64 is ok, nothing special.",3,f ferrari is ok nothing special,-0.015,Neutral,2026-04,Neutral
+33,646,35,10,2026-05-11,"Fantastic, Car Culture Toyota AE86 exceeded my expectations :) https://youtube.com/watch?v=hw123",5,fantastic car culture toyota ae exceeded my expectations,0.765,Positive,2026-05,Positive
+34,882,113,24,2026-07-28,"Car Carrying Case is overpriced, waste of money :( www.reddit.com/r/HotWheels",2,car carrying case is overpriced waste of money,-0.6908,Negative,2026-07,Negative
+35,132,94,15,2025-11-28,Absolutely loved F1 Ferrari 1:64! Best addition to my collection.,4,absolutely loved f ferrari best addition to my collection,0.8653,Positive,2025-11,Positive
+36,1046,55,14,2026-09-21,"Delivery took a week, F1 Red Bull Racing 1:64 is as described.",3,delivery took a week f red bull racing is as described,0.0,Neutral,2026-09,Neutral
+37,502,72,22,2026-03-24,"Collector Display Case is amazing, great paint and fast delivery!!!",5,collector display case is amazing great paint and fast delivery,0.8682,Positive,2026-03,Positive
+38,368,94,6,2026-01-16,"Delivery took a week, Mainline Honda Civic Type R is as described.",3,delivery took a week mainline honda civic type r is as described,0.0,Neutral,2026-01,Neutral
+39,267,106,17,2025-12-25,"F1 Aston Martin 1:64 is overpriced, waste of money :( www.reddit.com/r/HotWheels",1,f aston martin is overpriced waste of money,-0.6908,Negative,2025-12,Negative
+40,404,31,22,2026-02-09,"Collector Display Case is amazing, great paint and fast delivery!!!",4,collector display case is amazing great paint and fast delivery,0.8682,Positive,2026-02,Positive
+41,560,88,23,2026-04-07,"Protector Pack Blister Covers is amazing, great paint and fast delivery!!!",4,protector pack blister covers is amazing great paint and fast delivery,0.8682,Positive,2026-04,Positive
+42,664,115,8,2026-05-14,"Delivery took a week, Car Culture Mazda RX-7 is as described.",3,delivery took a week car culture mazda rx is as described,0.0,Neutral,2026-05,Neutral
+43,883,11,23,2026-07-25,Absolutely loved Protector Pack Blister Covers! Best addition to my collection.,4,absolutely loved protector pack blister covers best addition to my collection,0.8653,Positive,2026-07,Positive
+44,1143,38,14,2026-10-27,"Fantastic, F1 Red Bull Racing 1:64 exceeded my expectations :) https://youtube.com/watch?v=hw123",5,fantastic f red bull racing exceeded my expectations,0.765,Positive,2026-10,Positive
+45,801,1,18,2026-06-28,"Fantastic, F1 Mercedes 1:43 Elite exceeded my expectations :) https://youtube.com/watch?v=hw123",4,fantastic f mercedes elite exceeded my expectations,0.765,Positive,2026-06,Positive
+46,282,43,17,2025-12-28,"F1 Aston Martin 1:64 is overpriced, waste of money :( www.reddit.com/r/HotWheels",1,f aston martin is overpriced waste of money,-0.6908,Negative,2025-12,Negative
+47,1011,54,15,2026-09-14,"F1 Ferrari 1:64 is ok, nothing special.",3,f ferrari is ok nothing special,-0.015,Neutral,2026-09,Neutral
+48,109,51,3,2025-12-06,Absolutely loved Mainline Porsche 911 GT3! Best addition to my collection.,5,absolutely loved mainline porsche gt best addition to my collection,0.8653,Positive,2025-12,Positive
+49,771,100,14,2026-06-17,"Fantastic, F1 Red Bull Racing 1:64 exceeded my expectations :) https://youtube.com/watch?v=hw123",4,fantastic f red bull racing exceeded my expectations,0.765,Positive,2026-06,Positive
+50,579,76,1,2026-04-13,"Fantastic, Mainline Nissan Skyline GT-R R34 exceeded my expectations :) https://youtube.com/watch?v=hw123",4,fantastic mainline nissan skyline gt r r exceeded my expectations,0.765,Positive,2026-04,Positive
+51,736,44,4,2026-05-31,"Delivery took a week, Mainline Ford Mustang is as described.",3,delivery took a week mainline ford mustang is as described,0.0,Neutral,2026-05,Neutral
+52,507,21,20,2026-03-20,Absolutely loved Mega Garage Playset! Best addition to my collection.,4,absolutely loved mega garage playset best addition to my collection,0.8653,Positive,2026-03,Positive
+53,700,57,15,2026-05-20,"Fantastic, F1 Ferrari 1:64 exceeded my expectations :) https://youtube.com/watch?v=hw123",5,fantastic f ferrari exceeded my expectations,0.765,Positive,2026-05,Positive
+54,1014,22,17,2026-09-10,Absolutely loved F1 Aston Martin 1:64! Best addition to my collection.,5,absolutely loved f aston martin best addition to my collection,0.8653,Positive,2026-09,Positive
+55,614,52,9,2026-05-04,"Delivery took a week, Car Culture BMW M3 E30 is as described.",3,delivery took a week car culture bmw m e is as described,0.0,Neutral,2026-05,Neutral
+56,521,40,22,2026-04-02,"Collector Display Case is amazing, great paint and fast delivery!!!",4,collector display case is amazing great paint and fast delivery,0.8682,Positive,2026-04,Positive
+57,163,12,2,2025-12-09,"Fantastic, Mainline Toyota Supra exceeded my expectations :) https://youtube.com/watch?v=hw123",4,fantastic mainline toyota supra exceeded my expectations,0.765,Positive,2025-12,Positive
+58,340,103,5,2026-01-04,"Mainline Lamborghini Huracan is overpriced, waste of money :( www.reddit.com/r/HotWheels",2,mainline lamborghini huracan is overpriced waste of money,-0.6908,Negative,2026-01,Negative
+59,804,66,7,2026-06-23,"Fantastic, Car Culture Datsun 510 exceeded my expectations :) https://youtube.com/watch?v=hw123",4,fantastic car culture datsun exceeded my expectations,0.765,Positive,2026-06,Positive
+60,93,96,2,2025-11-27,"Delivery took a week, Mainline Toyota Supra is as described.",3,delivery took a week mainline toyota supra is as described,0.0,Neutral,2025-11,Neutral
+61,942,79,13,2026-08-23,Absolutely loved Treasure Hunt Dodge Charger! Best addition to my collection.,5,absolutely loved treasure hunt dodge charger best addition to my collection,0.9035,Positive,2026-08,Positive
+62,611,100,18,2026-04-29,"F1 Mercedes 1:43 Elite is amazing, great paint and fast delivery!!!",4,f mercedes elite is amazing great paint and fast delivery,0.8682,Positive,2026-04,Positive
+63,1175,100,12,2026-11-02,"Fantastic, Super Treasure Hunt Nissan Fairlady Z exceeded my expectations :) https://youtube.com/watch?v=hw123",5,fantastic super treasure hunt nissan fairlady z exceeded my expectations,0.9136,Positive,2026-11,Positive
+64,1123,31,24,2026-10-21,"Car Carrying Case is amazing, great paint and fast delivery!!!",5,car carrying case is amazing great paint and fast delivery,0.8682,Positive,2026-10,Positive
+65,417,46,16,2026-02-22,"Delivery took a week, F1 McLaren 1:64 is as described.",3,delivery took a week f mclaren is as described,0.0,Neutral,2026-02,Neutral
+66,1181,51,8,2026-11-09,Absolutely loved Car Culture Mazda RX-7! Best addition to my collection.,4,absolutely loved car culture mazda rx best addition to my collection,0.8653,Positive,2026-11,Positive
+67,598,64,15,2026-04-19,Absolutely loved F1 Ferrari 1:64! Best addition to my collection.,4,absolutely loved f ferrari best addition to my collection,0.8653,Positive,2026-04,Positive
+68,87,9,6,2025-11-20,"Fantastic, Mainline Honda Civic Type R exceeded my expectations :) https://youtube.com/watch?v=hw123",4,fantastic mainline honda civic type r exceeded my expectations,0.765,Positive,2025-11,Positive
+69,354,62,18,2026-01-10,"F1 Mercedes 1:43 Elite is ok, nothing special.",3,f mercedes elite is ok nothing special,-0.015,Neutral,2026-01,Neutral
+70,243,57,14,2025-12-16,Terrible! F1 Red Bull Racing 1:64 arrived in a crushed box and late!!!,2,terrible f red bull racing arrived in a crushed box and late,-0.7946,Negative,2025-12,Negative
+72,61,70,14,2025-11-23,"F1 Red Bull Racing 1:64 is amazing, great paint and fast delivery!!!",5,f red bull racing is amazing great paint and fast delivery,0.8682,Positive,2025-11,Positive
+73,273,45,17,2025-12-24,"F1 Aston Martin 1:64 is overpriced, waste of money :( www.reddit.com/r/HotWheels",1,f aston martin is overpriced waste of money,-0.6908,Negative,2025-12,Negative
+74,1010,28,15,2026-09-14,"Fantastic, F1 Ferrari 1:64 exceeded my expectations :) https://youtube.com/watch?v=hw123",5,fantastic f ferrari exceeded my expectations,0.765,Positive,2026-09,Positive
+75,1156,44,18,2026-11-05,"Fantastic, F1 Mercedes 1:43 Elite exceeded my expectations :) https://youtube.com/watch?v=hw123",4,fantastic f mercedes elite exceeded my expectations,0.765,Positive,2026-11,Positive
+76,12,93,9,2025-11-04,"Car Culture BMW M3 E30 is ok, nothing special.",3,car culture bmw m e is ok nothing special,-0.015,Neutral,2025-11,Neutral
+77,792,60,5,2026-06-26,"Mainline Lamborghini Huracan is amazing, great paint and fast delivery!!!",5,mainline lamborghini huracan is amazing great paint and fast delivery,0.8682,Positive,2026-06,Positive
+78,510,96,23,2026-03-18,"Protector Pack Blister Covers is amazing, great paint and fast delivery!!!",4,protector pack blister covers is amazing great paint and fast delivery,0.8682,Positive,2026-03,Positive
+79,818,66,19,2026-06-22,"Very disappointed with Track Builder Stunt Set, the paint was chipped.",1,very disappointed with track builder stunt set the paint was chipped,-0.5256,Negative,2026-06,Negative
+80,838,69,13,2026-07-08,"Treasure Hunt Dodge Charger is amazing, great paint and fast delivery!!!",4,treasure hunt dodge charger is amazing great paint and fast delivery,0.8996,Positive,2026-07,Positive
+81,711,70,13,2026-05-29,"Fantastic, Treasure Hunt Dodge Charger exceeded my expectations :) https://youtube.com/watch?v=hw123",4,fantastic treasure hunt dodge charger exceeded my expectations,0.8316,Positive,2026-05,Positive
+82,409,84,6,2026-02-11,"Fantastic, Mainline Honda Civic Type R exceeded my expectations :) https://youtube.com/watch?v=hw123",5,fantastic mainline honda civic type r exceeded my expectations,0.765,Positive,2026-02,Positive
+83,606,108,4,2026-04-27,"Mainline Ford Mustang is overpriced, waste of money :( www.reddit.com/r/HotWheels",2,mainline ford mustang is overpriced waste of money,-0.6908,Negative,2026-04,Negative
+84,433,93,9,2026-03-02,"Very disappointed with Car Culture BMW M3 E30, the paint was chipped.",2,very disappointed with car culture bmw m e the paint was chipped,-0.5256,Negative,2026-03,Negative
+85,936,18,2,2026-08-16,"Fantastic, Mainline Toyota Supra exceeded my expectations :) https://youtube.com/watch?v=hw123",5,fantastic mainline toyota supra exceeded my expectations,0.765,Positive,2026-08,Positive
+86,620,34,1,2026-05-03,"Delivery took a week, Mainline Nissan Skyline GT-R R34 is as described.",3,delivery took a week mainline nissan skyline gt r r is as described,0.0,Neutral,2026-05,Neutral
+87,686,6,16,2026-05-22,"F1 McLaren 1:64 is ok, nothing special.",3,f mclaren is ok nothing special,-0.015,Neutral,2026-05,Neutral
+88,1158,74,10,2026-10-24,Absolutely loved Car Culture Toyota AE86! Best addition to my collection.,4,absolutely loved car culture toyota ae best addition to my collection,0.8653,Positive,2026-10,Positive
+89,663,1,12,2026-05-11,Absolutely loved Super Treasure Hunt Nissan Fairlady Z! Best addition to my collection.,4,absolutely loved super treasure hunt nissan fairlady z best addition to my collection,0.9462,Positive,2026-05,Positive
+90,370,64,15,2026-01-20,"Fantastic, F1 Ferrari 1:64 exceeded my expectations :) https://youtube.com/watch?v=hw123",5,fantastic f ferrari exceeded my expectations,0.765,Positive,2026-01,Positive
+91,187,21,3,2025-12-16,"Mainline Porsche 911 GT3 is ok, nothing special.",3,mainline porsche gt is ok nothing special,-0.015,Neutral,2025-12,Neutral
+92,563,73,1,2026-04-06,"Fantastic, Mainline Nissan Skyline GT-R R34 exceeded my expectations :) https://youtube.com/watch?v=hw123",4,fantastic mainline nissan skyline gt r r exceeded my expectations,0.765,Positive,2026-04,Positive
+93,383,13,14,2026-02-05,"Fantastic, F1 Red Bull Racing 1:64 exceeded my expectations :) https://youtube.com/watch?v=hw123",4,fantastic f red bull racing exceeded my expectations,0.765,Positive,2026-02,Positive
+94,1071,113,8,2026-10-01,Absolutely loved Car Culture Mazda RX-7! Best addition to my collection.,5,absolutely loved car culture mazda rx best addition to my collection,0.8653,Positive,2026-10,Positive
+95,1083,67,8,2026-09-29,Absolutely loved Car Culture Mazda RX-7! Best addition to my collection.,5,absolutely loved car culture mazda rx best addition to my collection,0.8653,Positive,2026-09,Positive
+96,252,7,24,2025-12-27,"Very disappointed with Car Carrying Case, the paint was chipped.",2,very disappointed with car carrying case the paint was chipped,-0.5256,Negative,2025-12,Negative
+97,367,86,16,2026-01-13,"Very disappointed with F1 McLaren 1:64, the paint was chipped.",1,very disappointed with f mclaren the paint was chipped,-0.5256,Negative,2026-01,Negative
+98,134,91,16,2025-12-02,"Fantastic, F1 McLaren 1:64 exceeded my expectations :) https://youtube.com/watch?v=hw123",4,fantastic f mclaren exceeded my expectations,0.765,Positive,2025-12,Positive
+99,915,57,17,2026-08-02,Absolutely loved F1 Aston Martin 1:64! Best addition to my collection.,5,absolutely loved f aston martin best addition to my collection,0.8653,Positive,2026-08,Positive
+100,717,54,17,2026-05-25,"Fantastic, F1 Aston Martin 1:64 exceeded my expectations :) https://youtube.com/watch?v=hw123",5,fantastic f aston martin exceeded my expectations,0.765,Positive,2026-05,Positive
+101,918,97,23,2026-08-08,"Protector Pack Blister Covers is amazing, great paint and fast delivery!!!",4,protector pack blister covers is amazing great paint and fast delivery,0.8682,Positive,2026-08,Positive
+102,123,48,4,2025-11-28,"Mainline Ford Mustang is ok, nothing special.",3,mainline ford mustang is ok nothing special,-0.015,Neutral,2025-11,Neutral
+103,703,79,17,2026-05-28,"F1 Aston Martin 1:64 is overpriced, waste of money :( www.reddit.com/r/HotWheels",2,f aston martin is overpriced waste of money,-0.6908,Negative,2026-05,Negative
+104,983,80,5,2026-09-01,"Very disappointed with Mainline Lamborghini Huracan, the paint was chipped.",2,very disappointed with mainline lamborghini huracan the paint was chipped,-0.5256,Negative,2026-09,Negative
+105,95,112,11,2025-11-21,"Fantastic, Treasure Hunt Chevrolet Camaro exceeded my expectations :) https://youtube.com/watch?v=hw123",4,fantastic treasure hunt chevrolet camaro exceeded my expectations,0.8316,Positive,2025-11,Positive
+106,578,109,14,2026-04-13,"Delivery took a week, F1 Red Bull Racing 1:64 is as described.",3,delivery took a week f red bull racing is as described,0.0,Neutral,2026-04,Neutral
+107,740,59,6,2026-06-02,Absolutely loved Mainline Honda Civic Type R! Best addition to my collection.,5,absolutely loved mainline honda civic type r best addition to my collection,0.8653,Positive,2026-06,Positive
+108,397,6,18,2026-02-05,"F1 Mercedes 1:43 Elite is amazing, great paint and fast delivery!!!",4,f mercedes elite is amazing great paint and fast delivery,0.8682,Positive,2026-02,Positive
+109,712,97,1,2026-06-01,"Delivery took a week, Mainline Nissan Skyline GT-R R34 is as described.",3,delivery took a week mainline nissan skyline gt r r is as described,0.0,Neutral,2026-06,Neutral
+110,320,46,5,2026-01-02,Terrible! Mainline Lamborghini Huracan arrived in a crushed box and late!!!,2,terrible mainline lamborghini huracan arrived in a crushed box and late,-0.7946,Negative,2026-01,Negative
+111,166,79,3,2025-12-14,Terrible! Mainline Porsche 911 GT3 arrived in a crushed box and late!!!,2,terrible mainline porsche gt arrived in a crushed box and late,-0.7946,Negative,2025-12,Negative
+112,1151,43,17,2026-10-26,"Fantastic, F1 Aston Martin 1:64 exceeded my expectations :) https://youtube.com/watch?v=hw123",5,fantastic f aston martin exceeded my expectations,0.765,Positive,2026-10,Positive
+113,900,56,17,2026-07-30,Absolutely loved F1 Aston Martin 1:64! Best addition to my collection.,4,absolutely loved f aston martin best addition to my collection,0.8653,Positive,2026-07,Positive
+114,586,95,7,2026-04-14,"Very disappointed with Car Culture Datsun 510, the paint was chipped.",1,very disappointed with car culture datsun the paint was chipped,-0.5256,Negative,2026-04,Negative
+115,600,85,12,2026-04-16,"Super Treasure Hunt Nissan Fairlady Z is ok, nothing special.",3,super treasure hunt nissan fairlady z is ok nothing special,0.722,Positive,2026-04,Neutral
+116,49,84,23,2025-11-22,"Fantastic, Protector Pack Blister Covers exceeded my expectations :) https://youtube.com/watch?v=hw123",5,fantastic protector pack blister covers exceeded my expectations,0.765,Positive,2025-11,Positive
+117,37,76,14,2025-11-13,"Fantastic, F1 Red Bull Racing 1:64 exceeded my expectations :) https://youtube.com/watch?v=hw123",4,fantastic f red bull racing exceeded my expectations,0.765,Positive,2025-11,Positive
+118,481,14,12,2026-03-17,Absolutely loved Super Treasure Hunt Nissan Fairlady Z! Best addition to my collection.,4,absolutely loved super treasure hunt nissan fairlady z best addition to my collection,0.9462,Positive,2026-03,Positive
+119,858,22,17,2026-07-20,"F1 Aston Martin 1:64 is amazing, great paint and fast delivery!!!",5,f aston martin is amazing great paint and fast delivery,0.8682,Positive,2026-07,Positive
+120,351,110,10,2026-01-04,"Car Culture Toyota AE86 is amazing, great paint and fast delivery!!!",4,car culture toyota ae is amazing great paint and fast delivery,0.8682,Positive,2026-01,Positive
+122,68,69,8,2025-11-16,"Car Culture Mazda RX-7 is ok, nothing special.",3,car culture mazda rx is ok nothing special,-0.015,Neutral,2025-11,Neutral
+123,29,105,23,2025-11-13,"Fantastic, Protector Pack Blister Covers exceeded my expectations :) https://youtube.com/watch?v=hw123",4,fantastic protector pack blister covers exceeded my expectations,0.765,Positive,2025-11,Positive
+124,281,44,20,2026-01-04,"Mega Garage Playset is overpriced, waste of money :( www.reddit.com/r/HotWheels",2,mega garage playset is overpriced waste of money,-0.6908,Negative,2026-01,Negative
+125,1075,74,13,2026-10-07,Absolutely loved Treasure Hunt Dodge Charger! Best addition to my collection.,5,absolutely loved treasure hunt dodge charger best addition to my collection,0.9035,Positive,2026-10,Positive
+126,216,93,5,2025-12-21,"Very disappointed with Mainline Lamborghini Huracan, the paint was chipped.",2,very disappointed with mainline lamborghini huracan the paint was chipped,-0.5256,Negative,2025-12,Negative
+127,1069,57,14,2026-09-29,"F1 Red Bull Racing 1:64 is amazing, great paint and fast delivery!!!",5,f red bull racing is amazing great paint and fast delivery,0.8682,Positive,2026-09,Positive
+128,484,23,18,2026-03-15,"F1 Mercedes 1:43 Elite is amazing, great paint and fast delivery!!!",4,f mercedes elite is amazing great paint and fast delivery,0.8682,Positive,2026-03,Positive
+129,231,96,10,2025-12-13,Terrible! Car Culture Toyota AE86 arrived in a crushed box and late!!!,2,terrible car culture toyota ae arrived in a crushed box and late,-0.7946,Negative,2025-12,Negative
+130,4,13,17,2025-11-14,"F1 Aston Martin 1:64 is amazing, great paint and fast delivery!!!",4,f aston martin is amazing great paint and fast delivery,0.8682,Positive,2025-11,Positive
+131,757,73,24,2026-06-09,Absolutely loved Car Carrying Case! Best addition to my collection.,4,absolutely loved car carrying case best addition to my collection,0.8653,Positive,2026-06,Positive
+132,530,102,16,2026-03-29,Absolutely loved F1 McLaren 1:64! Best addition to my collection.,4,absolutely loved f mclaren best addition to my collection,0.8653,Positive,2026-03,Positive
+133,778,34,15,2026-06-18,"Fantastic, F1 Ferrari 1:64 exceeded my expectations :) https://youtube.com/watch?v=hw123",5,fantastic f ferrari exceeded my expectations,0.765,Positive,2026-06,Positive
+134,1119,80,3,2026-10-24,Absolutely loved Mainline Porsche 911 GT3! Best addition to my collection.,4,absolutely loved mainline porsche gt best addition to my collection,0.8653,Positive,2026-10,Positive
+135,399,101,14,2026-02-09,"Delivery took a week, F1 Red Bull Racing 1:64 is as described.",3,delivery took a week f red bull racing is as described,0.0,Neutral,2026-02,Neutral
+136,1096,51,21,2026-10-12,"Monster Loop Race Track is overpriced, waste of money :( www.reddit.com/r/HotWheels",1,monster loop race track is overpriced waste of money,-0.6908,Negative,2026-10,Negative
+137,72,31,12,2025-11-20,"Fantastic, Super Treasure Hunt Nissan Fairlady Z exceeded my expectations :) https://youtube.com/watch?v=hw123",5,fantastic super treasure hunt nissan fairlady z exceeded my expectations,0.9136,Positive,2025-11,Positive
+138,79,6,11,2025-11-26,"Fantastic, Treasure Hunt Chevrolet Camaro exceeded my expectations :) https://youtube.com/watch?v=hw123",4,fantastic treasure hunt chevrolet camaro exceeded my expectations,0.8316,Positive,2025-11,Positive
+139,225,115,23,2025-12-16,"Protector Pack Blister Covers is overpriced, waste of money :( www.reddit.com/r/HotWheels",2,protector pack blister covers is overpriced waste of money,-0.6908,Negative,2025-12,Negative
+140,385,74,24,2026-02-03,Absolutely loved Car Carrying Case! Best addition to my collection.,4,absolutely loved car carrying case best addition to my collection,0.8653,Positive,2026-02,Positive
+141,122,61,21,2025-12-04,"Monster Loop Race Track is amazing, great paint and fast delivery!!!",4,monster loop race track is amazing great paint and fast delivery,0.8682,Positive,2025-12,Positive
+142,1099,2,16,2026-10-06,Absolutely loved F1 McLaren 1:64! Best addition to my collection.,5,absolutely loved f mclaren best addition to my collection,0.8653,Positive,2026-10,Positive
+143,850,38,17,2026-07-14,Terrible! F1 Aston Martin 1:64 arrived in a crushed box and late!!!,2,terrible f aston martin arrived in a crushed box and late,-0.7946,Negative,2026-07,Negative
+144,661,8,16,2026-05-11,Absolutely loved F1 McLaren 1:64! Best addition to my collection.,4,absolutely loved f mclaren best addition to my collection,0.8653,Positive,2026-05,Positive
+145,624,62,11,2026-05-08,"Treasure Hunt Chevrolet Camaro is ok, nothing special.",3,treasure hunt chevrolet camaro is ok nothing special,0.2828,Positive,2026-05,Neutral
+146,718,106,20,2026-06-02,"Mega Garage Playset is overpriced, waste of money :( www.reddit.com/r/HotWheels",2,mega garage playset is overpriced waste of money,-0.6908,Negative,2026-06,Negative
+147,241,89,17,2025-12-26,"F1 Aston Martin 1:64 is ok, nothing special.",3,f aston martin is ok nothing special,-0.015,Neutral,2025-12,Neutral
+148,249,58,11,2025-12-21,"Treasure Hunt Chevrolet Camaro is ok, nothing special.",3,treasure hunt chevrolet camaro is ok nothing special,0.2828,Positive,2025-12,Neutral
+149,767,6,12,2026-06-13,"Super Treasure Hunt Nissan Fairlady Z is amazing, great paint and fast delivery!!!",5,super treasure hunt nissan fairlady z is amazing great paint and fast delivery,0.9421,Positive,2026-06,Positive
+150,642,51,11,2026-05-06,"Treasure Hunt Chevrolet Camaro is amazing, great paint and fast delivery!!!",4,treasure hunt chevrolet camaro is amazing great paint and fast delivery,0.8996,Positive,2026-05,Positive
+151,209,48,16,2025-12-22,Terrible! F1 McLaren 1:64 arrived in a crushed box and late!!!,1,terrible f mclaren arrived in a crushed box and late,-0.7946,Negative,2025-12,Negative
+152,82,46,15,2025-11-28,"Delivery took a week, F1 Ferrari 1:64 is as described.",3,delivery took a week f ferrari is as described,0.0,Neutral,2025-11,Neutral
+153,300,7,12,2025-12-26,Terrible! Super Treasure Hunt Nissan Fairlady Z arrived in a crushed box and late!!!,1,terrible super treasure hunt nissan fairlady z arrived in a crushed box and late,0.3331,Positive,2025-12,Negative
+154,83,114,16,2025-11-24,"F1 McLaren 1:64 is ok, nothing special.",3,f mclaren is ok nothing special,-0.015,Neutral,2025-11,Neutral
+155,765,101,23,2026-06-18,"Protector Pack Blister Covers is overpriced, waste of money :( www.reddit.com/r/HotWheels",2,protector pack blister covers is overpriced waste of money,-0.6908,Negative,2026-06,Negative
+156,14,45,10,2025-11-07,Terrible! Car Culture Toyota AE86 arrived in a crushed box and late!!!,2,terrible car culture toyota ae arrived in a crushed box and late,-0.7946,Negative,2025-11,Negative
+157,387,12,6,2026-01-26,"Mainline Honda Civic Type R is overpriced, waste of money :( www.reddit.com/r/HotWheels",1,mainline honda civic type r is overpriced waste of money,-0.6908,Negative,2026-01,Negative
+158,641,113,12,2026-05-04,"Super Treasure Hunt Nissan Fairlady Z is overpriced, waste of money :( www.reddit.com/r/HotWheels",2,super treasure hunt nissan fairlady z is overpriced waste of money,0.1027,Positive,2026-05,Negative
+159,596,23,5,2026-04-16,"Fantastic, Mainline Lamborghini Huracan exceeded my expectations :) https://youtube.com/watch?v=hw123",4,fantastic mainline lamborghini huracan exceeded my expectations,0.765,Positive,2026-04,Positive
+160,1149,108,10,2026-10-28,"Car Culture Toyota AE86 is amazing, great paint and fast delivery!!!",4,car culture toyota ae is amazing great paint and fast delivery,0.8682,Positive,2026-10,Positive
+161,653,76,19,2026-05-12,Terrible! Track Builder Stunt Set arrived in a crushed box and late!!!,2,terrible track builder stunt set arrived in a crushed box and late,-0.7946,Negative,2026-05,Negative
+162,956,113,5,2026-08-26,Terrible! Mainline Lamborghini Huracan arrived in a crushed box and late!!!,2,terrible mainline lamborghini huracan arrived in a crushed box and late,-0.7946,Negative,2026-08,Negative
+163,336,1,3,2026-01-08,"Mainline Porsche 911 GT3 is overpriced, waste of money :( www.reddit.com/r/HotWheels",1,mainline porsche gt is overpriced waste of money,-0.6908,Negative,2026-01,Negative
+164,1094,71,24,2026-10-05,"Car Carrying Case is amazing, great paint and fast delivery!!!",4,car carrying case is amazing great paint and fast delivery,0.8682,Positive,2026-10,Positive
+165,730,4,9,2026-06-04,"Car Culture BMW M3 E30 is ok, nothing special.",3,car culture bmw m e is ok nothing special,-0.015,Neutral,2026-06,Neutral
+166,1024,72,8,2026-09-20,"Fantastic, Car Culture Mazda RX-7 exceeded my expectations :) https://youtube.com/watch?v=hw123",5,fantastic car culture mazda rx exceeded my expectations,0.765,Positive,2026-09,Positive
+167,205,109,12,2025-12-20,"Super Treasure Hunt Nissan Fairlady Z is overpriced, waste of money :( www.reddit.com/r/HotWheels",2,super treasure hunt nissan fairlady z is overpriced waste of money,0.1027,Positive,2025-12,Negative
+168,791,36,8,2026-06-18,"Car Culture Mazda RX-7 is ok, nothing special.",3,car culture mazda rx is ok nothing special,-0.015,Neutral,2026-06,Neutral
+169,739,1,18,2026-05-31,"F1 Mercedes 1:43 Elite is overpriced, waste of money :( www.reddit.com/r/HotWheels",1,f mercedes elite is overpriced waste of money,-0.6908,Negative,2026-05,Negative
+170,894,4,17,2026-07-29,"Fantastic, F1 Aston Martin 1:64 exceeded my expectations :) https://youtube.com/watch?v=hw123",5,fantastic f aston martin exceeded my expectations,0.765,Positive,2026-07,Positive
+172,285,84,17,2025-12-27,"Very disappointed with F1 Aston Martin 1:64, the paint was chipped.",1,very disappointed with f aston martin the paint was chipped,-0.5256,Negative,2025-12,Negative
+173,3,20,16,2025-11-03,"F1 McLaren 1:64 is amazing, great paint and fast delivery!!!",4,f mclaren is amazing great paint and fast delivery,0.8682,Positive,2025-11,Positive
+174,514,65,20,2026-03-30,"Delivery took a week, Mega Garage Playset is as described.",3,delivery took a week mega garage playset is as described,0.0,Neutral,2026-03,Neutral
+175,682,79,11,2026-05-23,"Treasure Hunt Chevrolet Camaro is overpriced, waste of money :( www.reddit.com/r/HotWheels",1,treasure hunt chevrolet camaro is overpriced waste of money,-0.5423,Negative,2026-05,Negative
+176,957,8,18,2026-08-23,"F1 Mercedes 1:43 Elite is amazing, great paint and fast delivery!!!",4,f mercedes elite is amazing great paint and fast delivery,0.8682,Positive,2026-08,Positive
+177,864,59,9,2026-07-21,Absolutely loved Car Culture BMW M3 E30! Best addition to my collection.,4,absolutely loved car culture bmw m e best addition to my collection,0.8653,Positive,2026-07,Positive
+178,335,112,14,2026-01-09,"Very disappointed with F1 Red Bull Racing 1:64, the paint was chipped.",1,very disappointed with f red bull racing the paint was chipped,-0.5256,Negative,2026-01,Negative
+179,622,33,18,2026-04-30,Absolutely loved F1 Mercedes 1:43 Elite! Best addition to my collection.,5,absolutely loved f mercedes elite best addition to my collection,0.8653,Positive,2026-04,Positive
+180,914,19,24,2026-08-03,"Car Carrying Case is ok, nothing special.",3,car carrying case is ok nothing special,-0.015,Neutral,2026-08,Neutral
+181,322,60,3,2026-01-10,"Mainline Porsche 911 GT3 is ok, nothing special.",3,mainline porsche gt is ok nothing special,-0.015,Neutral,2026-01,Neutral
+182,406,109,10,2026-02-06,"Car Culture Toyota AE86 is ok, nothing special.",3,car culture toyota ae is ok nothing special,-0.015,Neutral,2026-02,Neutral
+183,729,9,1,2026-06-04,"Mainline Nissan Skyline GT-R R34 is amazing, great paint and fast delivery!!!",4,mainline nissan skyline gt r r is amazing great paint and fast delivery,0.8682,Positive,2026-06,Positive
+184,232,78,17,2025-12-18,"F1 Aston Martin 1:64 is ok, nothing special.",3,f aston martin is ok nothing special,-0.015,Neutral,2025-12,Neutral
+185,671,84,22,2026-05-11,Terrible! Collector Display Case arrived in a crushed box and late!!!,1,terrible collector display case arrived in a crushed box and late,-0.7946,Negative,2026-05,Negative
+186,926,74,4,2026-08-15,"Delivery took a week, Mainline Ford Mustang is as described.",3,delivery took a week mainline ford mustang is as described,0.0,Neutral,2026-08,Neutral
+187,665,1,15,2026-05-18,"Delivery took a week, F1 Ferrari 1:64 is as described.",3,delivery took a week f ferrari is as described,0.0,Neutral,2026-05,Neutral
+188,701,66,16,2026-05-30,"Fantastic, F1 McLaren 1:64 exceeded my expectations :) https://youtube.com/watch?v=hw123",5,fantastic f mclaren exceeded my expectations,0.765,Positive,2026-05,Positive
+189,925,72,13,2026-08-10,"Treasure Hunt Dodge Charger is amazing, great paint and fast delivery!!!",5,treasure hunt dodge charger is amazing great paint and fast delivery,0.8996,Positive,2026-08,Positive
+190,325,69,15,2026-01-06,"F1 Ferrari 1:64 is overpriced, waste of money :( www.reddit.com/r/HotWheels",1,f ferrari is overpriced waste of money,-0.6908,Negative,2026-01,Negative
+191,247,85,8,2025-12-28,"Car Culture Mazda RX-7 is ok, nothing special.",3,car culture mazda rx is ok nothing special,-0.015,Neutral,2025-12,Neutral
+192,967,100,13,2026-08-27,"Fantastic, Treasure Hunt Dodge Charger exceeded my expectations :) https://youtube.com/watch?v=hw123",4,fantastic treasure hunt dodge charger exceeded my expectations,0.8316,Positive,2026-08,Positive
+193,1043,64,18,2026-09-18,"Delivery took a week, F1 Mercedes 1:43 Elite is as described.",3,delivery took a week f mercedes elite is as described,0.0,Neutral,2026-09,Neutral
+194,856,93,9,2026-07-21,"Delivery took a week, Car Culture BMW M3 E30 is as described.",3,delivery took a week car culture bmw m e is as described,0.0,Neutral,2026-07,Neutral
+195,644,16,4,2026-05-06,"Mainline Ford Mustang is amazing, great paint and fast delivery!!!",4,mainline ford mustang is amazing great paint and fast delivery,0.8682,Positive,2026-05,Positive
+196,1093,11,15,2026-10-14,"F1 Ferrari 1:64 is amazing, great paint and fast delivery!!!",4,f ferrari is amazing great paint and fast delivery,0.8682,Positive,2026-10,Positive
+197,809,7,13,2026-06-21,"Fantastic, Treasure Hunt Dodge Charger exceeded my expectations :) https://youtube.com/watch?v=hw123",5,fantastic treasure hunt dodge charger exceeded my expectations,0.8316,Positive,2026-06,Positive
+198,130,70,3,2025-12-02,"Mainline Porsche 911 GT3 is ok, nothing special.",3,mainline porsche gt is ok nothing special,-0.015,Neutral,2025-12,Neutral
+199,987,61,3,2026-09-11,"Mainline Porsche 911 GT3 is amazing, great paint and fast delivery!!!",5,mainline porsche gt is amazing great paint and fast delivery,0.8682,Positive,2026-09,Positive
+200,69,31,10,2025-11-20,"Very disappointed with Car Culture Toyota AE86, the paint was chipped.",2,very disappointed with car culture toyota ae the paint was chipped,-0.5256,Negative,2025-11,Negative
+201,146,6,7,2025-12-10,"Fantastic, Car Culture Datsun 510 exceeded my expectations :) https://youtube.com/watch?v=hw123",5,fantastic car culture datsun exceeded my expectations,0.765,Positive,2025-12,Positive
+202,969,82,17,2026-08-28,"Delivery took a week, F1 Aston Martin 1:64 is as described.",3,delivery took a week f aston martin is as described,0.0,Neutral,2026-08,Neutral
+203,31,97,24,2025-11-09,"Car Carrying Case is amazing, great paint and fast delivery!!!",4,car carrying case is amazing great paint and fast delivery,0.8682,Positive,2025-11,Positive
+204,89,73,19,2025-11-22,"Delivery took a week, Track Builder Stunt Set is as described.",3,delivery took a week track builder stunt set is as described,0.0,Neutral,2025-11,Neutral
+205,973,72,7,2026-08-31,Absolutely loved Car Culture Datsun 510! Best addition to my collection.,4,absolutely loved car culture datsun best addition to my collection,0.8653,Positive,2026-08,Positive
+206,56,4,17,2025-11-20,"F1 Aston Martin 1:64 is amazing, great paint and fast delivery!!!",5,f aston martin is amazing great paint and fast delivery,0.8682,Positive,2025-11,Positive
+207,490,49,2,2026-03-14,"Fantastic, Mainline Toyota Supra exceeded my expectations :) https://youtube.com/watch?v=hw123",5,fantastic mainline toyota supra exceeded my expectations,0.765,Positive,2026-03,Positive
+208,1126,94,20,2026-10-14,"Mega Garage Playset is amazing, great paint and fast delivery!!!",4,mega garage playset is amazing great paint and fast delivery,0.8682,Positive,2026-10,Positive
+209,625,70,18,2026-05-04,"Fantastic, F1 Mercedes 1:43 Elite exceeded my expectations :) https://youtube.com/watch?v=hw123",5,fantastic f mercedes elite exceeded my expectations,0.765,Positive,2026-05,Positive
+210,395,111,12,2026-02-03,"Fantastic, Super Treasure Hunt Nissan Fairlady Z exceeded my expectations :) https://youtube.com/watch?v=hw123",5,fantastic super treasure hunt nissan fairlady z exceeded my expectations,0.9136,Positive,2026-02,Positive
+211,908,69,8,2026-07-29,Absolutely loved Car Culture Mazda RX-7! Best addition to my collection.,4,absolutely loved car culture mazda rx best addition to my collection,0.8653,Positive,2026-07,Positive
+212,898,114,14,2026-07-23,"Fantastic, F1 Red Bull Racing 1:64 exceeded my expectations :) https://youtube.com/watch?v=hw123",5,fantastic f red bull racing exceeded my expectations,0.765,Positive,2026-07,Positive
+213,301,18,6,2025-12-28,"Mainline Honda Civic Type R is overpriced, waste of money :( www.reddit.com/r/HotWheels",1,mainline honda civic type r is overpriced waste of money,-0.6908,Negative,2025-12,Negative
+214,345,6,18,2026-01-02,"F1 Mercedes 1:43 Elite is ok, nothing special.",3,f mercedes elite is ok nothing special,-0.015,Neutral,2026-01,Neutral
+215,811,65,9,2026-06-22,"Very disappointed with Car Culture BMW M3 E30, the paint was chipped.",2,very disappointed with car culture bmw m e the paint was chipped,-0.5256,Negative,2026-06,Negative
+216,1128,97,16,2026-10-24,Absolutely loved F1 McLaren 1:64! Best addition to my collection.,5,absolutely loved f mclaren best addition to my collection,0.8653,Positive,2026-10,Positive
+217,793,6,10,2026-06-19,"Car Culture Toyota AE86 is ok, nothing special.",3,car culture toyota ae is ok nothing special,-0.015,Neutral,2026-06,Neutral
+218,621,89,20,2026-04-28,Terrible! Mega Garage Playset arrived in a crushed box and late!!!,1,terrible mega garage playset arrived in a crushed box and late,-0.7946,Negative,2026-04,Negative
+219,509,42,7,2026-03-17,Absolutely loved Car Culture Datsun 510! Best addition to my collection.,5,absolutely loved car culture datsun best addition to my collection,0.8653,Positive,2026-03,Positive
+220,998,91,22,2026-09-15,"Fantastic, Collector Display Case exceeded my expectations :) https://youtube.com/watch?v=hw123",4,fantastic collector display case exceeded my expectations,0.765,Positive,2026-09,Positive
+221,242,68,4,2025-12-16,"Very disappointed with Mainline Ford Mustang, the paint was chipped.",1,very disappointed with mainline ford mustang the paint was chipped,-0.5256,Negative,2025-12,Negative
+222,1038,95,2,2026-09-22,"Mainline Toyota Supra is amazing, great paint and fast delivery!!!",4,mainline toyota supra is amazing great paint and fast delivery,0.8682,Positive,2026-09,Positive
+223,1161,68,1,2026-10-25,"Mainline Nissan Skyline GT-R R34 is overpriced, waste of money :( www.reddit.com/r/HotWheels",2,mainline nissan skyline gt r r is overpriced waste of money,-0.6908,Negative,2026-10,Negative
+224,550,52,12,2026-04-04,Absolutely loved Super Treasure Hunt Nissan Fairlady Z! Best addition to my collection.,5,absolutely loved super treasure hunt nissan fairlady z best addition to my collection,0.9462,Positive,2026-04,Positive
+225,692,13,22,2026-05-26,"Fantastic, Collector Display Case exceeded my expectations :) https://youtube.com/watch?v=hw123",4,fantastic collector display case exceeded my expectations,0.765,Positive,2026-05,Positive
+226,463,109,3,2026-03-16,"Fantastic, Mainline Porsche 911 GT3 exceeded my expectations :) https://youtube.com/watch?v=hw123",5,fantastic mainline porsche gt exceeded my expectations,0.765,Positive,2026-03,Positive
+227,74,67,11,2025-11-19,Terrible! Treasure Hunt Chevrolet Camaro arrived in a crushed box and late!!!,2,terrible treasure hunt chevrolet camaro arrived in a crushed box and late,-0.7067,Negative,2025-11,Negative
+228,1047,10,17,2026-09-26,"Fantastic, F1 Aston Martin 1:64 exceeded my expectations :) https://youtube.com/watch?v=hw123",4,fantastic f aston martin exceeded my expectations,0.765,Positive,2026-09,Positive
+229,805,114,7,2026-06-26,Absolutely loved Car Culture Datsun 510! Best addition to my collection.,5,absolutely loved car culture datsun best addition to my collection,0.8653,Positive,2026-06,Positive
+230,113,31,18,2025-12-03,Absolutely loved F1 Mercedes 1:43 Elite! Best addition to my collection.,5,absolutely loved f mercedes elite best addition to my collection,0.8653,Positive,2025-12,Positive
+231,986,96,10,2026-09-02,"Delivery took a week, Car Culture Toyota AE86 is as described.",3,delivery took a week car culture toyota ae is as described,0.0,Neutral,2026-09,Neutral
+232,953,27,12,2026-08-28,Absolutely loved Super Treasure Hunt Nissan Fairlady Z! Best addition to my collection.,4,absolutely loved super treasure hunt nissan fairlady z best addition to my collection,0.9462,Positive,2026-08,Positive
+233,592,13,15,2026-04-22,"Delivery took a week, F1 Ferrari 1:64 is as described.",3,delivery took a week f ferrari is as described,0.0,Neutral,2026-04,Neutral
+234,815,67,24,2026-06-28,"Very disappointed with Car Carrying Case, the paint was chipped.",2,very disappointed with car carrying case the paint was chipped,-0.5256,Negative,2026-06,Negative
+235,552,33,18,2026-04-09,"F1 Mercedes 1:43 Elite is amazing, great paint and fast delivery!!!",5,f mercedes elite is amazing great paint and fast delivery,0.8682,Positive,2026-04,Positive
+236,1102,71,17,2026-10-09,"F1 Aston Martin 1:64 is amazing, great paint and fast delivery!!!",5,f aston martin is amazing great paint and fast delivery,0.8682,Positive,2026-10,Positive
+237,988,5,5,2026-09-07,"Delivery took a week, Mainline Lamborghini Huracan is as described.",3,delivery took a week mainline lamborghini huracan is as described,0.0,Neutral,2026-09,Neutral
+238,1036,101,13,2026-09-25,"Fantastic, Treasure Hunt Dodge Charger exceeded my expectations :) https://youtube.com/watch?v=hw123",5,fantastic treasure hunt dodge charger exceeded my expectations,0.8316,Positive,2026-09,Positive
+239,489,74,23,2026-03-21,Absolutely loved Protector Pack Blister Covers! Best addition to my collection.,4,absolutely loved protector pack blister covers best addition to my collection,0.8653,Positive,2026-03,Positive
+240,416,71,16,2026-02-11,"Delivery took a week, F1 McLaren 1:64 is as described.",3,delivery took a week f mclaren is as described,0.0,Neutral,2026-02,Neutral
+241,457,114,12,2026-03-13,Terrible! Super Treasure Hunt Nissan Fairlady Z arrived in a crushed box and late!!!,2,terrible super treasure hunt nissan fairlady z arrived in a crushed box and late,0.3331,Positive,2026-03,Negative
+242,332,31,16,2026-01-01,Terrible! F1 McLaren 1:64 arrived in a crushed box and late!!!,2,terrible f mclaren arrived in a crushed box and late,-0.7946,Negative,2026-01,Negative
+243,378,27,21,2026-01-30,"Delivery took a week, Monster Loop Race Track is as described.",3,delivery took a week monster loop race track is as described,0.0,Neutral,2026-01,Neutral
+244,338,47,21,2026-01-01,"Monster Loop Race Track is overpriced, waste of money :( www.reddit.com/r/HotWheels",1,monster loop race track is overpriced waste of money,-0.6908,Negative,2026-01,Negative
+245,568,52,18,2026-04-06,"F1 Mercedes 1:43 Elite is amazing, great paint and fast delivery!!!",5,f mercedes elite is amazing great paint and fast delivery,0.8682,Positive,2026-04,Positive
+246,213,36,18,2025-12-13,"Very disappointed with F1 Mercedes 1:43 Elite, the paint was chipped.",1,very disappointed with f mercedes elite the paint was chipped,-0.5256,Negative,2025-12,Negative
+247,547,117,3,2026-04-06,"Fantastic, Mainline Porsche 911 GT3 exceeded my expectations :) https://youtube.com/watch?v=hw123",4,fantastic mainline porsche gt exceeded my expectations,0.765,Positive,2026-04,Positive
+248,135,84,1,2025-12-09,"Fantastic, Mainline Nissan Skyline GT-R R34 exceeded my expectations :) https://youtube.com/watch?v=hw123",4,fantastic mainline nissan skyline gt r r exceeded my expectations,0.765,Positive,2025-12,Positive
+249,605,16,6,2026-04-30,"Mainline Honda Civic Type R is amazing, great paint and fast delivery!!!",5,mainline honda civic type r is amazing great paint and fast delivery,0.8682,Positive,2026-04,Positive
+250,602,28,17,2026-04-29,"F1 Aston Martin 1:64 is amazing, great paint and fast delivery!!!",4,f aston martin is amazing great paint and fast delivery,0.8682,Positive,2026-04,Positive
+251,1076,46,18,2026-10-07,"Fantastic, F1 Mercedes 1:43 Elite exceeded my expectations :) https://youtube.com/watch?v=hw123",4,fantastic f mercedes elite exceeded my expectations,0.765,Positive,2026-10,Positive
+252,615,63,18,2026-04-24,"Fantastic, F1 Mercedes 1:43 Elite exceeded my expectations :) https://youtube.com/watch?v=hw123",5,fantastic f mercedes elite exceeded my expectations,0.765,Positive,2026-04,Positive
+253,527,59,5,2026-04-04,"Fantastic, Mainline Lamborghini Huracan exceeded my expectations :) https://youtube.com/watch?v=hw123",5,fantastic mainline lamborghini huracan exceeded my expectations,0.765,Positive,2026-04,Positive
+254,468,72,9,2026-03-15,"Fantastic, Car Culture BMW M3 E30 exceeded my expectations :) https://youtube.com/watch?v=hw123",5,fantastic car culture bmw m e exceeded my expectations,0.765,Positive,2026-03,Positive
+255,342,98,15,2026-01-12,"Very disappointed with F1 Ferrari 1:64, the paint was chipped.",2,very disappointed with f ferrari the paint was chipped,-0.5256,Negative,2026-01,Negative
+256,504,109,22,2026-03-25,"Collector Display Case is overpriced, waste of money :( www.reddit.com/r/HotWheels",2,collector display case is overpriced waste of money,-0.6908,Negative,2026-03,Negative
+257,352,1,18,2026-01-13,Absolutely loved F1 Mercedes 1:43 Elite! Best addition to my collection.,5,absolutely loved f mercedes elite best addition to my collection,0.8653,Positive,2026-01,Positive
+258,897,104,16,2026-07-23,"F1 McLaren 1:64 is amazing, great paint and fast delivery!!!",4,f mclaren is amazing great paint and fast delivery,0.8682,Positive,2026-07,Positive
+259,555,72,17,2026-04-04,"F1 Aston Martin 1:64 is ok, nothing special.",3,f aston martin is ok nothing special,-0.015,Neutral,2026-04,Neutral
+260,901,42,10,2026-08-03,"Car Culture Toyota AE86 is amazing, great paint and fast delivery!!!",4,car culture toyota ae is amazing great paint and fast delivery,0.8682,Positive,2026-08,Positive
+261,164,44,24,2025-12-13,Terrible! Car Carrying Case arrived in a crushed box and late!!!,2,terrible car carrying case arrived in a crushed box and late,-0.7946,Negative,2025-12,Negative
+262,356,100,10,2026-01-04,Terrible! Car Culture Toyota AE86 arrived in a crushed box and late!!!,2,terrible car culture toyota ae arrived in a crushed box and late,-0.7946,Negative,2026-01,Negative
+263,927,32,17,2026-08-11,"Delivery took a week, F1 Aston Martin 1:64 is as described.",3,delivery took a week f aston martin is as described,0.0,Neutral,2026-08,Neutral
+264,344,102,15,2026-01-10,Terrible! F1 Ferrari 1:64 arrived in a crushed box and late!!!,1,terrible f ferrari arrived in a crushed box and late,-0.7946,Negative,2026-01,Negative
+265,680,118,19,2026-05-22,"Track Builder Stunt Set is amazing, great paint and fast delivery!!!",4,track builder stunt set is amazing great paint and fast delivery,0.8682,Positive,2026-05,Positive
+266,657,52,22,2026-05-13,"Collector Display Case is ok, nothing special.",3,collector display case is ok nothing special,-0.015,Neutral,2026-05,Neutral
+267,36,100,19,2025-11-21,"Track Builder Stunt Set is amazing, great paint and fast delivery!!!",4,track builder stunt set is amazing great paint and fast delivery,0.8682,Positive,2025-11,Positive
+268,195,101,17,2025-12-15,"F1 Aston Martin 1:64 is overpriced, waste of money :( www.reddit.com/r/HotWheels",2,f aston martin is overpriced waste of money,-0.6908,Negative,2025-12,Negative
+269,286,64,15,2025-12-31,"Very disappointed with F1 Ferrari 1:64, the paint was chipped.",2,very disappointed with f ferrari the paint was chipped,-0.5256,Negative,2025-12,Negative
+270,408,72,22,2026-02-18,Absolutely loved Collector Display Case! Best addition to my collection.,4,absolutely loved collector display case best addition to my collection,0.8653,Positive,2026-02,Positive
+271,783,59,2,2026-06-19,"Mainline Toyota Supra is ok, nothing special.",3,mainline toyota supra is ok nothing special,-0.015,Neutral,2026-06,Neutral
+272,464,17,16,2026-03-06,"Fantastic, F1 McLaren 1:64 exceeded my expectations :) https://youtube.com/watch?v=hw123",4,fantastic f mclaren exceeded my expectations,0.765,Positive,2026-03,Positive
+273,756,106,9,2026-06-10,"Car Culture BMW M3 E30 is ok, nothing special.",3,car culture bmw m e is ok nothing special,-0.015,Neutral,2026-06,Neutral
+274,945,109,1,2026-08-14,"Mainline Nissan Skyline GT-R R34 is amazing, great paint and fast delivery!!!",5,mainline nissan skyline gt r r is amazing great paint and fast delivery,0.8682,Positive,2026-08,Positive
+275,601,52,16,2026-04-27,"Fantastic, F1 McLaren 1:64 exceeded my expectations :) https://youtube.com/watch?v=hw123",4,fantastic f mclaren exceeded my expectations,0.765,Positive,2026-04,Positive
+276,81,103,3,2025-11-23,"Mainline Porsche 911 GT3 is overpriced, waste of money :( www.reddit.com/r/HotWheels",2,mainline porsche gt is overpriced waste of money,-0.6908,Negative,2025-11,Negative
+277,437,27,18,2026-03-03,"Fantastic, F1 Mercedes 1:43 Elite exceeded my expectations :) https://youtube.com/watch?v=hw123",4,fantastic f mercedes elite exceeded my expectations,0.765,Positive,2026-03,Positive
+278,1148,56,16,2026-10-25,"Delivery took a week, F1 McLaren 1:64 is as described.",3,delivery took a week f mclaren is as described,0.0,Neutral,2026-10,Neutral
+279,293,119,8,2026-01-02,"Very disappointed with Car Culture Mazda RX-7, the paint was chipped.",1,very disappointed with car culture mazda rx the paint was chipped,-0.5256,Negative,2026-01,Negative
+280,822,20,16,2026-06-26,Absolutely loved F1 McLaren 1:64! Best addition to my collection.,5,absolutely loved f mclaren best addition to my collection,0.8653,Positive,2026-06,Positive
+281,382,1,22,2026-02-02,Absolutely loved Collector Display Case! Best addition to my collection.,5,absolutely loved collector display case best addition to my collection,0.8653,Positive,2026-02,Positive
+282,255,45,15,2025-12-19,"F1 Ferrari 1:64 is ok, nothing special.",3,f ferrari is ok nothing special,-0.015,Neutral,2025-12,Neutral
+283,271,29,2,2025-12-21,"Mainline Toyota Supra is overpriced, waste of money :( www.reddit.com/r/HotWheels",2,mainline toyota supra is overpriced waste of money,-0.6908,Negative,2025-12,Negative
+284,426,85,12,2026-02-21,"Very disappointed with Super Treasure Hunt Nissan Fairlady Z, the paint was chipped.",1,very disappointed with super treasure hunt nissan fairlady z the paint was chipped,0.4535,Positive,2026-02,Negative
+285,618,17,15,2026-04-29,"Fantastic, F1 Ferrari 1:64 exceeded my expectations :) https://youtube.com/watch?v=hw123",4,fantastic f ferrari exceeded my expectations,0.765,Positive,2026-04,Positive
+286,355,88,3,2026-01-04,"Fantastic, Mainline Porsche 911 GT3 exceeded my expectations :) https://youtube.com/watch?v=hw123",4,fantastic mainline porsche gt exceeded my expectations,0.765,Positive,2026-01,Positive
+287,666,11,20,2026-05-19,"Delivery took a week, Mega Garage Playset is as described.",3,delivery took a week mega garage playset is as described,0.0,Neutral,2026-05,Neutral
+288,1115,20,15,2026-10-21,"F1 Ferrari 1:64 is amazing, great paint and fast delivery!!!",5,f ferrari is amazing great paint and fast delivery,0.8682,Positive,2026-10,Positive
+289,288,48,7,2026-01-03,"Car Culture Datsun 510 is overpriced, waste of money :( www.reddit.com/r/HotWheels",2,car culture datsun is overpriced waste of money,-0.6908,Negative,2026-01,Negative
+290,659,72,8,2026-05-08,"Fantastic, Car Culture Mazda RX-7 exceeded my expectations :) https://youtube.com/watch?v=hw123",4,fantastic car culture mazda rx exceeded my expectations,0.765,Positive,2026-05,Positive
+291,905,27,2,2026-07-27,"Fantastic, Mainline Toyota Supra exceeded my expectations :) https://youtube.com/watch?v=hw123",5,fantastic mainline toyota supra exceeded my expectations,0.765,Positive,2026-07,Positive
+292,88,9,24,2025-11-22,"Car Carrying Case is ok, nothing special.",3,car carrying case is ok nothing special,-0.015,Neutral,2025-11,Neutral
+293,115,105,1,2025-12-01,Absolutely loved Mainline Nissan Skyline GT-R R34! Best addition to my collection.,5,absolutely loved mainline nissan skyline gt r r best addition to my collection,0.8653,Positive,2025-12,Positive
+294,40,27,3,2025-11-22,"Very disappointed with Mainline Porsche 911 GT3, the paint was chipped.",1,very disappointed with mainline porsche gt the paint was chipped,-0.5256,Negative,2025-11,Negative
+295,1138,43,17,2026-10-26,"F1 Aston Martin 1:64 is amazing, great paint and fast delivery!!!",5,f aston martin is amazing great paint and fast delivery,0.8682,Positive,2026-10,Positive
+296,298,66,12,2025-12-30,"Very disappointed with Super Treasure Hunt Nissan Fairlady Z, the paint was chipped.",2,very disappointed with super treasure hunt nissan fairlady z the paint was chipped,0.4535,Positive,2025-12,Negative
+297,237,74,12,2025-12-20,"Super Treasure Hunt Nissan Fairlady Z is ok, nothing special.",3,super treasure hunt nissan fairlady z is ok nothing special,0.722,Positive,2025-12,Neutral
+298,447,67,8,2026-03-03,"Fantastic, Car Culture Mazda RX-7 exceeded my expectations :) https://youtube.com/watch?v=hw123",5,fantastic car culture mazda rx exceeded my expectations,0.765,Positive,2026-03,Positive
+299,853,102,14,2026-07-17,"Very disappointed with F1 Red Bull Racing 1:64, the paint was chipped.",2,very disappointed with f red bull racing the paint was chipped,-0.5256,Negative,2026-07,Negative
+300,427,21,14,2026-02-19,"F1 Red Bull Racing 1:64 is ok, nothing special.",3,f red bull racing is ok nothing special,-0.015,Neutral,2026-02,Neutral
+301,94,13,22,2025-11-23,"Delivery took a week, Collector Display Case is as described.",3,delivery took a week collector display case is as described,0.0,Neutral,2025-11,Neutral
+302,101,86,1,2025-11-23,"Mainline Nissan Skyline GT-R R34 is amazing, great paint and fast delivery!!!",5,mainline nissan skyline gt r r is amazing great paint and fast delivery,0.8682,Positive,2025-11,Positive
+303,414,67,23,2026-02-12,"Fantastic, Protector Pack Blister Covers exceeded my expectations :) https://youtube.com/watch?v=hw123",4,fantastic protector pack blister covers exceeded my expectations,0.765,Positive,2026-02,Positive
+304,99,91,11,2025-12-04,"Fantastic, Treasure Hunt Chevrolet Camaro exceeded my expectations :) https://youtube.com/watch?v=hw123",5,fantastic treasure hunt chevrolet camaro exceeded my expectations,0.8316,Positive,2025-12,Positive
+305,1066,57,17,2026-10-07,"Fantastic, F1 Aston Martin 1:64 exceeded my expectations :) https://youtube.com/watch?v=hw123",5,fantastic f aston martin exceeded my expectations,0.765,Positive,2026-10,Positive
+306,501,111,15,2026-03-25,"Fantastic, F1 Ferrari 1:64 exceeded my expectations :) https://youtube.com/watch?v=hw123",4,fantastic f ferrari exceeded my expectations,0.765,Positive,2026-03,Positive
+307,548,102,24,2026-04-04,"Fantastic, Car Carrying Case exceeded my expectations :) https://youtube.com/watch?v=hw123",4,fantastic car carrying case exceeded my expectations,0.765,Positive,2026-04,Positive
+308,788,104,14,2026-06-20,"Very disappointed with F1 Red Bull Racing 1:64, the paint was chipped.",2,very disappointed with f red bull racing the paint was chipped,-0.5256,Negative,2026-06,Negative
+309,681,109,12,2026-05-22,Absolutely loved Super Treasure Hunt Nissan Fairlady Z! Best addition to my collection.,5,absolutely loved super treasure hunt nissan fairlady z best addition to my collection,0.9462,Positive,2026-05,Positive
+310,1196,21,2,2026-11-03,"Mainline Toyota Supra is ok, nothing special.",3,mainline toyota supra is ok nothing special,-0.015,Neutral,2026-11,Neutral
+311,816,105,4,2026-06-29,Absolutely loved Mainline Ford Mustang! Best addition to my collection.,5,absolutely loved mainline ford mustang best addition to my collection,0.8653,Positive,2026-06,Positive
+312,7,10,14,2025-11-06,Terrible! F1 Red Bull Racing 1:64 arrived in a crushed box and late!!!,2,terrible f red bull racing arrived in a crushed box and late,-0.7946,Negative,2025-11,Negative
+313,357,88,5,2026-01-10,"Fantastic, Mainline Lamborghini Huracan exceeded my expectations :) https://youtube.com/watch?v=hw123",4,fantastic mainline lamborghini huracan exceeded my expectations,0.765,Positive,2026-01,Positive
+314,554,64,16,2026-04-12,"Fantastic, F1 McLaren 1:64 exceeded my expectations :) https://youtube.com/watch?v=hw123",4,fantastic f mclaren exceeded my expectations,0.765,Positive,2026-04,Positive
+315,128,33,18,2025-11-27,"Very disappointed with F1 Mercedes 1:43 Elite, the paint was chipped.",1,very disappointed with f mercedes elite the paint was chipped,-0.5256,Negative,2025-11,Negative
+316,118,109,14,2025-12-04,"F1 Red Bull Racing 1:64 is amazing, great paint and fast delivery!!!",4,f red bull racing is amazing great paint and fast delivery,0.8682,Positive,2025-12,Positive
+317,372,43,17,2026-01-20,"Very disappointed with F1 Aston Martin 1:64, the paint was chipped.",1,very disappointed with f aston martin the paint was chipped,-0.5256,Negative,2026-01,Negative
+318,571,77,3,2026-04-14,"Delivery took a week, Mainline Porsche 911 GT3 is as described.",3,delivery took a week mainline porsche gt is as described,0.0,Neutral,2026-04,Neutral
+319,362,115,6,2026-01-19,Absolutely loved Mainline Honda Civic Type R! Best addition to my collection.,4,absolutely loved mainline honda civic type r best addition to my collection,0.8653,Positive,2026-01,Positive
+320,491,91,9,2026-03-14,"Car Culture BMW M3 E30 is overpriced, waste of money :( www.reddit.com/r/HotWheels",2,car culture bmw m e is overpriced waste of money,-0.6908,Negative,2026-03,Negative
+321,1072,33,14,2026-10-07,"Fantastic, F1 Red Bull Racing 1:64 exceeded my expectations :) https://youtube.com/watch?v=hw123",4,fantastic f red bull racing exceeded my expectations,0.765,Positive,2026-10,Positive
+322,326,71,17,2026-01-03,Terrible! F1 Aston Martin 1:64 arrived in a crushed box and late!!!,1,terrible f aston martin arrived in a crushed box and late,-0.7946,Negative,2026-01,Negative
+323,307,105,13,2026-01-04,Terrible! Treasure Hunt Dodge Charger arrived in a crushed box and late!!!,2,terrible treasure hunt dodge charger arrived in a crushed box and late,-0.7067,Negative,2026-01,Negative
+324,1166,72,20,2026-10-27,"Delivery took a week, Mega Garage Playset is as described.",3,delivery took a week mega garage playset is as described,0.0,Neutral,2026-10,Neutral
+325,797,112,6,2026-06-25,"Mainline Honda Civic Type R is amazing, great paint and fast delivery!!!",5,mainline honda civic type r is amazing great paint and fast delivery,0.8682,Positive,2026-06,Positive
+326,421,30,4,2026-02-13,Absolutely loved Mainline Ford Mustang! Best addition to my collection.,4,absolutely loved mainline ford mustang best addition to my collection,0.8653,Positive,2026-02,Positive
+327,1020,94,12,2026-09-19,"Delivery took a week, Super Treasure Hunt Nissan Fairlady Z is as described.",3,delivery took a week super treasure hunt nissan fairlady z is as described,0.7269,Positive,2026-09,Neutral
+328,1080,56,14,2026-10-04,"F1 Red Bull Racing 1:64 is amazing, great paint and fast delivery!!!",4,f red bull racing is amazing great paint and fast delivery,0.8682,Positive,2026-10,Positive
+329,965,27,1,2026-09-02,"Very disappointed with Mainline Nissan Skyline GT-R R34, the paint was chipped.",2,very disappointed with mainline nissan skyline gt r r the paint was chipped,-0.5256,Negative,2026-09,Negative
+330,144,69,5,2025-12-03,"Mainline Lamborghini Huracan is ok, nothing special.",3,mainline lamborghini huracan is ok nothing special,-0.015,Neutral,2025-12,Neutral
+331,1160,49,3,2026-11-02,"Mainline Porsche 911 GT3 is overpriced, waste of money :( www.reddit.com/r/HotWheels",2,mainline porsche gt is overpriced waste of money,-0.6908,Negative,2026-11,Negative
+332,289,1,15,2025-12-29,"F1 Ferrari 1:64 is ok, nothing special.",3,f ferrari is ok nothing special,-0.015,Neutral,2025-12,Neutral
+333,470,111,14,2026-03-08,"F1 Red Bull Racing 1:64 is overpriced, waste of money :( www.reddit.com/r/HotWheels",1,f red bull racing is overpriced waste of money,-0.6908,Negative,2026-03,Negative
+334,330,108,2,2025-12-31,"Mainline Toyota Supra is overpriced, waste of money :( www.reddit.com/r/HotWheels",2,mainline toyota supra is overpriced waste of money,-0.6908,Negative,2025-12,Negative
+335,1176,12,8,2026-11-08,"Delivery took a week, Car Culture Mazda RX-7 is as described.",3,delivery took a week car culture mazda rx is as described,0.0,Neutral,2026-11,Neutral
+336,11,2,1,2025-11-03,"Fantastic, Mainline Nissan Skyline GT-R R34 exceeded my expectations :) https://youtube.com/watch?v=hw123",4,fantastic mainline nissan skyline gt r r exceeded my expectations,0.765,Positive,2025-11,Positive
+337,445,74,13,2026-02-28,"Treasure Hunt Dodge Charger is amazing, great paint and fast delivery!!!",5,treasure hunt dodge charger is amazing great paint and fast delivery,0.8996,Positive,2026-02,Positive
+338,229,60,21,2025-12-13,"Very disappointed with Monster Loop Race Track, the paint was chipped.",1,very disappointed with monster loop race track the paint was chipped,-0.5256,Negative,2025-12,Negative
+339,743,87,18,2026-06-09,"F1 Mercedes 1:43 Elite is overpriced, waste of money :( www.reddit.com/r/HotWheels",2,f mercedes elite is overpriced waste of money,-0.6908,Negative,2026-06,Negative
+340,98,7,4,2025-11-28,"Mainline Ford Mustang is amazing, great paint and fast delivery!!!",5,mainline ford mustang is amazing great paint and fast delivery,0.8682,Positive,2025-11,Positive
+341,516,58,5,2026-03-22,Absolutely loved Mainline Lamborghini Huracan! Best addition to my collection.,5,absolutely loved mainline lamborghini huracan best addition to my collection,0.8653,Positive,2026-03,Positive
+342,608,84,11,2026-05-02,"Treasure Hunt Chevrolet Camaro is ok, nothing special.",3,treasure hunt chevrolet camaro is ok nothing special,0.2828,Positive,2026-05,Neutral
+343,1017,103,5,2026-09-16,"Delivery took a week, Mainline Lamborghini Huracan is as described.",3,delivery took a week mainline lamborghini huracan is as described,0.0,Neutral,2026-09,Neutral
+344,275,4,5,2025-12-31,"Mainline Lamborghini Huracan is overpriced, waste of money :( www.reddit.com/r/HotWheels",2,mainline lamborghini huracan is overpriced waste of money,-0.6908,Negative,2025-12,Negative
+345,405,77,6,2026-02-15,Terrible! Mainline Honda Civic Type R arrived in a crushed box and late!!!,2,terrible mainline honda civic type r arrived in a crushed box and late,-0.7946,Negative,2026-02,Negative
+346,244,109,7,2025-12-24,Terrible! Car Culture Datsun 510 arrived in a crushed box and late!!!,2,terrible car culture datsun arrived in a crushed box and late,-0.7946,Negative,2025-12,Negative
+347,888,102,18,2026-07-24,"Delivery took a week, F1 Mercedes 1:43 Elite is as described.",3,delivery took a week f mercedes elite is as described,0.0,Neutral,2026-07,Neutral
+348,493,96,19,2026-03-16,"Track Builder Stunt Set is overpriced, waste of money :( www.reddit.com/r/HotWheels",1,track builder stunt set is overpriced waste of money,-0.6908,Negative,2026-03,Negative
+349,1130,73,24,2026-10-19,"Car Carrying Case is amazing, great paint and fast delivery!!!",5,car carrying case is amazing great paint and fast delivery,0.8682,Positive,2026-10,Positive
+350,261,71,17,2025-12-30,"Very disappointed with F1 Aston Martin 1:64, the paint was chipped.",2,very disappointed with f aston martin the paint was chipped,-0.5256,Negative,2025-12,Negative
